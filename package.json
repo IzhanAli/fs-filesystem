@@ -1,0 +1,21 @@
+{
+  "name": "fs-filesystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+     "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IzhanAli/fs-filesystem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IzhanAli/fs-filesystem/issues"
+  },
+  "homepage": "https://github.com/IzhanAli/fs-filesystem#readme"
+}
